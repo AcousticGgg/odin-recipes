@@ -1,1 +1,1 @@
-# odin-recipes
+I will attempt demonstrate what I have learned through The Odin Project's HTML introductory course. I will attempt to create a recipe website using HTML. 
